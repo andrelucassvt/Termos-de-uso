@@ -42,3 +42,5 @@ Nossa Política de Privacidade descreve como coletamos, usamos e protegemos suas
 8. Contato
 
 Se você tiver quaisquer dúvidas ou preocupações sobre estes Termos de Uso, por favor, entre em contato conosco através do e-mail: andrelucassvt99@gmail.com
+
+Produzido por: André Lucas Barbosa Salvador e Thaíssa Vitória Portal Rodrigues
