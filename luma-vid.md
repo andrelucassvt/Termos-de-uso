@@ -50,6 +50,7 @@ Esses dados podem ser processados por serviços de terceiros de inteligência ar
 - Os dados são armazenados de forma segura  
 - Utilizamos medidas técnicas e organizacionais para proteção das informações  
 - Os dados são mantidos apenas pelo tempo necessário para cumprir suas finalidades  
+- **Vídeos gerados:** Os vídeos criados pela IA ficam disponíveis para download por até **60 minutos** após a geração. Após esse prazo, não será mais possível realizar o download (limitação técnica da API Sora-2)
 
 ---
 
