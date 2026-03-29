@@ -89,9 +89,7 @@ O desenvolvedor reserva-se o direito de atualizar esta Política de Privacidade 
 
 ## 9. Contato
 
-Dúvidas, solicitações ou relatos relacionados a esta Política de Privacidade podem ser encaminhados por meio do repositório oficial do aplicativo:
-
-**GitHub:** https://github.com/andrelucassvt/CleanMacForFlutter
+**email:** andrelucassvt99@gmail.com
 
 ---
 

@@ -145,9 +145,7 @@ Estes Termos de Uso são regidos pela legislação brasileira. Fica eleito o for
 
 ## 15. Contato
 
-Dúvidas, sugestões ou relatos de problemas relacionados ao aplicativo podem ser enviados por meio do repositório oficial:
-
-**GitHub:** https://github.com/andrelucassvt/CleanMacForFlutter
+**email:** andrelucassvt99@gmail.com
 
 ---
 
