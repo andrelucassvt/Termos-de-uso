@@ -1,26 +1,26 @@
-# Termos de Uso – Clean Mac for Devs
+# Termos de Uso – Cleaner for Devs
 
 **Última atualização:** 29/03/2026
 
-Bem-vindo ao **Clean Mac for Devs**! Antes de utilizar o aplicativo, leia atentamente estes Termos de Uso. Ao acessar ou utilizar o aplicativo, você concorda com os termos aqui descritos.
+Bem-vindo ao **Cleaner for Devs**! Antes de utilizar o aplicativo, leia atentamente estes Termos de Uso. Ao acessar ou utilizar o aplicativo, você concorda com os termos aqui descritos.
 
 ---
 
 ## 1. Identificação
 
-**Clean Mac for Devs** é um aplicativo para macOS desenvolvido de forma independente. O aplicativo auxilia desenvolvedores a recuperar espaço em disco removendo artefatos de build, caches e pastas de dependências de projetos de software.
+**Cleaner for Devs** é um aplicativo para macOS desenvolvido de forma independente. O aplicativo auxilia desenvolvedores a recuperar espaço em disco removendo artefatos de build, caches e pastas de dependências de projetos de software.
 
 ---
 
 ## 2. Aceitação dos Termos
 
-Ao baixar, instalar ou utilizar o Clean Mac for Devs, você declara que leu, compreendeu e concorda com estes Termos de Uso. Caso não concorde com qualquer disposição aqui prevista, não utilize o aplicativo.
+Ao baixar, instalar ou utilizar o Cleaner for Devs, você declara que leu, compreendeu e concorda com estes Termos de Uso. Caso não concorde com qualquer disposição aqui prevista, não utilize o aplicativo.
 
 ---
 
 ## 3. Descrição do Serviço
 
-O Clean Mac for Devs oferece ao desenvolvedor:
+O Cleaner for Devs oferece ao desenvolvedor:
 
 - Detecção automática de projetos Flutter, Xcode, Node.js, Python, Rust, Android, React Native e React;
 - Remoção de artefatos de build, caches e pastas de dependências selecionados pelo usuário;
@@ -59,7 +59,7 @@ Você concorda em não:
 
 ## 6. Responsabilidade do Usuário pela Operação de Limpeza
 
-O Clean Mac for Devs remove permanentemente arquivos e pastas dos projetos selecionados. **O usuário é o único responsável pela seleção das pastas e pela execução das operações de limpeza.**
+O Cleaner for Devs remove permanentemente arquivos e pastas dos projetos selecionados. **O usuário é o único responsável pela seleção das pastas e pela execução das operações de limpeza.**
 
 Antes de executar qualquer operação, certifique-se de que:
 
@@ -98,7 +98,7 @@ O aplicativo opera com **App Sandbox** habilitado. Todo acesso ao sistema de arq
 
 ## 9. Propriedade Intelectual
 
-O aplicativo Clean Mac for Devs, incluindo seu código-fonte, design, ícones, marcas e demais materiais, é protegido pelas leis de propriedade intelectual aplicáveis. É vedada a reprodução, distribuição ou criação de obras derivadas sem autorização expressa do desenvolvedor.
+O aplicativo Cleaner for Devs, incluindo seu código-fonte, design, ícones, marcas e demais materiais, é protegido pelas leis de propriedade intelectual aplicáveis. É vedada a reprodução, distribuição ou criação de obras derivadas sem autorização expressa do desenvolvedor.
 
 ---
 
@@ -149,4 +149,4 @@ Estes Termos de Uso são regidos pela legislação brasileira. Fica eleito o for
 
 ---
 
-*Clean Mac for Devs — Libere espaço. Construa mais.*
+*Cleaner for Devs — Libere espaço. Construa mais.*
