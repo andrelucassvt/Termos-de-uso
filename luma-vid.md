@@ -1,8 +1,8 @@
-# Política de Privacidade – Luma Vid  
+# Política de Privacidade – Lucky Create  
 
 **Última atualização:** 13/01/2026  
 
-O **Luma Vid** respeita a sua privacidade e está comprometido em proteger os dados pessoais dos seus usuários. Esta Política de Privacidade explica como coletamos, usamos, armazenamos e protegemos suas informações ao utilizar nosso aplicativo.
+O **Lucky Create** respeita a sua privacidade e está comprometido em proteger os dados pessoais dos seus usuários. Esta Política de Privacidade explica como coletamos, usamos, armazenamos e protegemos suas informações ao utilizar nosso aplicativo.
 
 ---
 
@@ -31,13 +31,13 @@ Utilizamos suas informações para:
 - Garantir a segurança da plataforma  
 - Cumprir obrigações legais  
 
-O Luma Vid **não vende, aluga ou compartilha seus dados pessoais** para fins comerciais.
+O Lucky Create **não vende, aluga ou compartilha seus dados pessoais** para fins comerciais.
 
 ---
 
 ## 3. Conteúdo gerado pelo usuário  
 
-Os conteúdos enviados ao Luma Vid são utilizados exclusivamente para:  
+Os conteúdos enviados ao Lucky Create são utilizados exclusivamente para:  
 - Processamento e geração de vídeos por IA  
 - Melhoria do desempenho e qualidade do serviço  
 
@@ -60,7 +60,7 @@ Esses dados podem ser processados por serviços de terceiros de inteligência ar
 Seus dados podem ser compartilhados apenas quando:  
 - Exigido por lei ou ordem judicial  
 - Necessário para o funcionamento do serviço (ex: provedores de infraestrutura ou IA)  
-- Necessário para proteger direitos, segurança e integridade do Luma Vid  
+- Necessário para proteger direitos, segurança e integridade do Lucky Create  
 
 Sempre limitando ao mínimo de informações necessárias.
 
@@ -91,7 +91,7 @@ As solicitações podem ser feitas através do canal de contato do aplicativo.
 
 ## 8. Privacidade de menores  
 
-O Luma Vid não é destinado a menores de 13 anos.  
+O Lucky Create não é destinado a menores de 13 anos.  
 Não coletamos intencionalmente dados de crianças.
 
 ---
